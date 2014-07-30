@@ -1,0 +1,274 @@
+2014/07/25 13:40:20 [error] 5760#4140: *1 CreateFile() "C:\utils\nginx-1.7.3/html/api/users" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /api/users HTTP/1.1", host: "localhost"
+2014/07/25 13:40:20 [error] 5760#4140: *1 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/25 13:46:09 [error] 5760#4140: *4 directory index of "C:\utils\nginx-1.7.3/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2014/07/25 13:51:32 [error] 5760#4140: *10 CreateFile() "C:\utils\nginx-1.7.3/html/api/user" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", host: "localhost"
+2014/07/25 14:05:44 [error] 5760#4140: *13 CreateFile() "C:\utils\nginx-1.7.3/html/angular.min.js.map" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /angular.min.js.map HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/25 14:17:33 [error] 5760#4140: *24 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/25 14:18:54 [notice] 6368#6652: signal process started
+2014/07/25 14:21:56 [error] 5760#4140: *26 CreateFile() "C:\utils\nginx-1.7.3/html/api/user" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", host: "localhost"
+2014/07/25 14:24:24 [error] 5760#4140: *28 CreateFile() "C:\utils\nginx-1.7.3/html/api/user" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", host: "localhost"
+2014/07/25 14:24:40 [error] 5760#4140: *28 CreateFile() "C:\utils\nginx-1.7.3/html/api/user" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", host: "localhost"
+2014/07/25 14:26:36 [notice] 5640#6288: signal process started
+2014/07/25 14:26:40 [error] 5760#4140: *30 CreateFile() "C:\utils\nginx-1.7.3/html/api/user" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", host: "localhost"
+2014/07/25 14:26:42 [error] 5760#4140: *30 CreateFile() "C:\utils\nginx-1.7.3/html/api/user" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", host: "localhost"
+2014/07/25 14:26:46 [error] 5760#4140: *30 CreateFile() "C:\utils\nginx-1.7.3/html/api/user" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", host: "localhost"
+2014/07/25 14:27:50 [notice] 5260#5552: signal process started
+2014/07/25 14:27:53 [error] 5760#4140: *33 CreateFile() "C:\utils\nginx-1.7.3/html/api/user" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", host: "localhost"
+2014/07/25 14:29:31 [error] 5760#4140: *36 CreateFile() "C:\utils\nginx-1.7.3/html/api/user" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", host: "localhost"
+2014/07/25 14:46:14 [error] 2280#1364: *1 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/25 14:46:26 [error] 2280#1364: *1 CreateFile() "C:\utils\nginx-1.7.3/html/angular.min.js.map" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /angular.min.js.map HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/25 14:47:44 [notice] 2512#2056: signal process started
+2014/07/25 14:48:52 [error] 3884#3224: *1 CreateFile() "C:\utils\nginx-1.7.3/html/angular.min.js.map" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /angular.min.js.map HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/25 15:00:09 [notice] 3380#3144: signal process started
+2014/07/25 15:02:34 [notice] 2708#1756: signal process started
+2014/07/25 15:06:34 [notice] 1980#656: signal process started
+2014/07/25 15:06:36 [error] 4744#2868: *6 directory index of "C:\utils\nginx-1.7.3/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2014/07/25 15:06:41 [error] 4744#2868: *6 directory index of "C:\utils\nginx-1.7.3/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2014/07/25 15:07:30 [error] 4744#2868: *6 directory index of "C:\utils\nginx-1.7.3/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2014/07/25 15:08:41 [error] 4744#2868: *10 CreateFile() "C:\utils\nginx-1.7.3/html/angular.js" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /angular.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/25 15:09:22 [notice] 4480#1756: signal process started
+2014/07/25 15:09:27 [error] 2596#2716: *11 CreateFile() "C:\utils\nginx-1.7.3/html/angular.js" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /angular.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/25 15:10:10 [error] 2596#2716: *11 CreateFile() "C:\utils\nginx-1.7.3/html/angular.js" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /angular.js HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/25 15:13:49 [notice] 1236#4688: signal process started
+2014/07/25 15:15:24 [error] 5088#3208: *5 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/25 15:15:25 [error] 5088#3208: *5 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/25 16:43:07 [notice] 5584#6232: signal process started
+2014/07/25 16:52:53 [error] 7040#6412: *206 CreateFile() "C:\utils\nginx-1.7.3/html/page2" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /page2 HTTP/1.1", host: "localhost"
+2014/07/25 16:53:27 [error] 7040#6412: *211 CreateFile() "C:\utils\nginx-1.7.3/html/index" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost"
+2014/07/28 09:28:14 [error] 2120#2332: *2 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/28 09:32:29 [error] 2120#2332: *5 CreateFile() "C:\utils\nginx-1.7.3/html/drugastrona" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /drugastrona HTTP/1.1", host: "localhost"
+2014/07/28 09:33:02 [error] 2120#2332: *5 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost"
+2014/07/28 09:33:04 [error] 2120#2332: *5 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost"
+2014/07/28 09:33:20 [notice] 4388#4392: signal process started
+2014/07/28 09:34:14 [error] 4404#4428: *10 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost"
+2014/07/28 09:34:29 [error] 4404#4428: *10 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost"
+2014/07/28 09:34:30 [error] 4404#4428: *10 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost"
+2014/07/28 09:35:00 [error] 4404#4428: *10 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost"
+2014/07/28 09:40:36 [error] 4404#4428: *24 CreateFile() "C:\utils\nginx-1.7.3/html/page2.html" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /page2.html HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/28 09:40:45 [error] 4404#4428: *24 CreateFile() "C:\utils\nginx-1.7.3/html/page2.html" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /page2.html HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/28 09:43:17 [error] 4404#4428: *32 CreateFile() "C:\utils\nginx-1.7.3/html/page2.html" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /page2.html HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/28 09:51:01 [error] 4404#4428: *70 CreateFile() "C:\utils\nginx-1.7.3/html/page2.html" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /page2.html HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/28 09:51:42 [error] 4404#4428: *69 CreateFile() "C:\utils\nginx-1.7.3/html/page2.html" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /page2.html HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/28 10:00:23 [error] 4404#4428: *82 CreateFile() "C:\utils\nginx-1.7.3/html/page2.html" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /page2.html HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/28 11:08:53 [error] 4404#4428: *176 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo/Wojciech.html" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo/Wojciech.html HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/28 11:33:00 [notice] 4728#5964: signal process started
+2014/07/28 11:33:05 [error] 4804#5804: *181 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo/Wojciech.html" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /userInfo/Wojciech.html HTTP/1.1", host: "localhost"
+2014/07/28 11:33:06 [error] 4804#5804: *181 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo/Wojciech.html" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo/Wojciech.html HTTP/1.1", host: "localhost"
+2014/07/28 11:33:09 [error] 4804#5804: *181 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo/Wojciech" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo/Wojciech HTTP/1.1", host: "localhost"
+2014/07/28 11:33:10 [error] 4804#5804: *181 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo/Wojciech" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo/Wojciech HTTP/1.1", host: "localhost"
+2014/07/28 11:33:22 [error] 4804#5804: *181 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo/Wojciech.html" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo/Wojciech.html HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:33:39 [error] 4804#5804: *181 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo/Wojciech.html" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo/Wojciech.html HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:33:39 [error] 4804#5804: *181 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo/Wojciech.html" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo/Wojciech.html HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:33:44 [error] 4804#5804: *181 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo/Wojciech.html" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo/Wojciech.html HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:33:57 [error] 4804#5804: *183 CreateFile() "C:\utils\nginx-1.7.3/html/userInfoWojciech.html" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfoWojciech.html HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:34:19 [error] 4804#5804: *186 CreateFile() "C:\utils\nginx-1.7.3/html/userInfoWojciech" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfoWojciech HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:34:49 [notice] 4404#4420: signal process started
+2014/07/28 11:34:58 [error] 5368#5148: *195 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:35:13 [error] 5368#5148: *195 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:35:14 [error] 5368#5148: *195 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:35:19 [error] 5368#5148: *195 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:35:27 [error] 5368#5148: *199 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 11:35:40 [notice] 5436#5232: signal process started
+2014/07/28 11:35:47 [error] 4128#4904: *204 CreateFile() "C:\utils\nginx-1.7.3/html/userInfo" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /userInfo HTTP/1.1", host: "localhost"
+2014/07/28 11:37:51 [notice] 6568#6572: signal process started
+2014/07/28 12:03:45 [error] 6580#6604: *227 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/ HTTP/1.1", upstream: "http://[::1]:8080/api/user/", host: "localhost", referrer: "http://localhost/userInfo.html?username:Wojciech"
+2014/07/28 12:15:17 [error] 6580#6604: *235 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/ HTTP/1.1", upstream: "http://[::1]:8080/api/user/", host: "localhost", referrer: "http://localhost/userInfo.html?username:wojciech"
+2014/07/28 12:16:34 [notice] 5284#5044: signal process started
+2014/07/28 12:16:45 [error] 6388#6472: *243 CreateFile() "C:\utils\nginx-1.7.3/html/user/wojciech" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /user/wojciech HTTP/1.1", host: "localhost"
+2014/07/28 15:32:22 [error] 6388#6472: *260 CreateFile() "C:\utils\nginx-1.7.3/html/js/controllers.js" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /js/controllers.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 15:34:51 [error] 6388#6472: *278 CreateFile() "C:\utils\nginx-1.7.3/html/angular.js" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /angular.js HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 15:41:44 [error] 6388#6472: *280 CreateFile() "C:\utils\nginx-1.7.3/html/test.html" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /test.html HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 15:46:14 [error] 6388#6472: *293 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 15:55:28 [error] 6388#6472: *311 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/index.html"
+2014/07/28 16:01:32 [error] 6388#6472: *349 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/28 16:21:36 [error] 6388#6472: *402 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/28 16:55:37 [error] 6388#6472: *529 CreateFile() "C:\utils\nginx-1.7.3/html/user/undefined.json" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /user/undefined.json HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/28 16:55:38 [error] 6388#6472: *529 CreateFile() "C:\utils\nginx-1.7.3/html/user/undefined.json" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /user/undefined.json HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2014/07/28 16:57:31 [error] 6388#6472: *530 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/%7B%7B$routeParams.username%7D%7D HTTP/1.1", upstream: "http://[::1]:8080/api/user/{{$routeParams.username}}", host: "localhost", referrer: "http://localhost/"
+2014/07/29 09:07:28 [error] 4112#4136: *2 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/29 09:08:29 [error] 4112#4136: *1 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciech HTTP/1.1", upstream: "http://127.0.0.1:8080/api/user/Wojciech", host: "localhost", referrer: "http://localhost/"
+2014/07/29 09:09:29 [error] 4112#4136: *1 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciech HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciech", host: "localhost", referrer: "http://localhost/"
+2014/07/29 09:09:29 [error] 4112#4136: *1 CreateFile() "C:\utils\nginx-1.7.3/html/50x.html" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciech HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciech", host: "localhost", referrer: "http://localhost/"
+2014/07/29 10:30:18 [error] 4112#4136: *268 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "PUT /api/user/Wojciech HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciech", host: "localhost", referrer: "http://localhost/"
+2014/07/29 10:36:42 [error] 4112#4136: *288 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "PUT /api/user/Wojciech HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciech", host: "localhost", referrer: "http://localhost/"
+2014/07/29 10:43:14 [error] 4112#4136: *312 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "PUT /api/user/Wojciech HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciech", host: "localhost", referrer: "http://localhost/"
+2014/07/29 10:52:25 [error] 4112#4136: *353 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "PUT /api/user/Wojciechm HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciechm", host: "localhost", referrer: "http://localhost/"
+2014/07/29 10:54:21 [error] 4112#4136: *353 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciechmo HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciechmo", host: "localhost", referrer: "http://localhost/"
+2014/07/29 11:12:18 [alert] 1292#204: worker process 1948 exited with code C0000142
+2014/07/29 11:22:14 [error] 5100#5080: *3 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/29 11:24:17 [error] 5100#5080: *3 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "PUT /api/user/WojciechMOD HTTP/1.1", upstream: "http://[::1]:8080/api/user/WojciechMOD", host: "localhost", referrer: "http://localhost/"
+2014/07/29 11:25:13 [error] 5100#5080: *13 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/29 11:25:53 [error] 5100#5080: *3 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "PUT /api/user/Aleksandra HTTP/1.1", upstream: "http://[::1]:8080/api/user/Aleksandra", host: "localhost", referrer: "http://localhost/"
+2014/07/29 11:45:56 [error] 5100#5080: *60 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciech HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciech", host: "localhost", referrer: "http://localhost/"
+2014/07/29 12:20:36 [error] 5100#5080: *209 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/29 12:22:16 [error] 5100#5080: *209 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Magdalena HTTP/1.1", upstream: "http://[::1]:8080/api/user/Magdalena", host: "localhost", referrer: "http://localhost/"
+2014/07/29 12:30:34 [error] 5100#5080: *260 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/29 12:59:23 [error] 5100#5080: *269 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciechmo HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciechmo", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:05:35 [error] 5100#5080: *276 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "PUT /api/user/Wojcieszko HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojcieszko", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:07:13 [error] 5100#5080: *276 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojcieszko HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojcieszko", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:18:08 [error] 5100#5080: *304 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:18:41 [error] 5100#5080: *311 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/29 13:20:10 [error] 5100#5080: *312 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciechmo HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciechmo", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:20:58 [notice] 3708#3152: signal process started
+2014/07/29 13:22:05 [error] 3112#2104: *328 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciechmo HTTP/1.1", upstream: "http://127.0.0.1:8080/api/user/Wojciechmo", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:23:05 [error] 3112#2104: *328 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciechmo HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciechmo", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:23:05 [error] 3112#2104: *328 CreateFile() "C:\utils\nginx-1.7.3/html/50x.html" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciechmo HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciechmo", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:24:07 [error] 3112#2104: *335 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/29 13:25:07 [error] 3112#2104: *334 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:30:21 [notice] 4344#4432: signal process started
+2014/07/29 13:31:29 [error] 1092#3952: *339 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:32:51 [error] 1092#3952: *339 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciechm HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciechm", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:36:40 [error] 1092#3952: *348 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:46:38 [error] 1092#3952: *354 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Magdalena HTTP/1.1", upstream: "http://[::1]:8080/api/user/Magdalena", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:47:24 [notice] 3460#2504: signal process started
+2014/07/29 13:48:34 [error] 1456#4292: *360 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciechm HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciechm", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:49:04 [error] 1456#4292: *362 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/wq HTTP/1.1", upstream: "http://[::1]:8080/api/user/wq", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:51:03 [notice] 3288#3888: signal process started
+2014/07/29 13:52:09 [error] 4944#4656: *369 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:53:00 [notice] 4336#3260: signal process started
+2014/07/29 13:53:27 [error] 4944#4656: *369 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/AleksandraM HTTP/1.1", upstream: "http://[::1]:8080/api/user/AleksandraM", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:54:07 [error] 4612#4468: *379 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/AleksandraM HTTP/1.1", upstream: "http://[::1]:8080/api/user/AleksandraM", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:54:19 [error] 4612#4468: *382 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciechm HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciechm", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:54:29 [error] 4612#4468: *385 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/AleksandraM HTTP/1.1", upstream: "http://[::1]:8080/api/user/AleksandraM", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:55:50 [emerg] 1740#856: "proxy_cache" zone "my-cache" is unknown in C:\utils\nginx-1.7.3/conf/nginx.conf:127
+2014/07/29 13:56:16 [notice] 1232#2268: signal process started
+2014/07/29 13:56:16 [emerg] 2196#1392: CreateDirectory() "C:/var/www/cache" failed (3: FormatMessage() error:(15100))
+2014/07/29 13:57:26 [error] 4612#4468: *394 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojcieszko HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojcieszko", host: "localhost", referrer: "http://localhost/"
+2014/07/29 13:57:31 [notice] 4456#2448: signal process started
+2014/07/29 13:59:54 [error] 4480#1152: *403 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/AleksandraM HTTP/1.1", upstream: "http://[::1]:8080/api/user/AleksandraM", host: "localhost", referrer: "http://localhost/"
+2014/07/29 14:01:16 [notice] 4600#4624: signal process started
+2014/07/29 14:02:21 [error] 4772#4364: *409 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/Wojciechm HTTP/1.1", upstream: "http://[::1]:8080/api/user/Wojciechm", host: "localhost", referrer: "http://localhost/"
+2014/07/29 14:03:41 [error] 4772#4364: *414 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/29 14:07:13 [notice] 5032#360: signal process started
+2014/07/29 14:07:40 [error] 5016#4064: *420 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", upstream: "http://[::1]:8080/api/user", host: "localhost", referrer: "http://localhost/"
+2014/07/29 14:08:12 [notice] 3208#1444: signal process started
+2014/07/29 14:08:12 [notice] 2196#1392: using the "select" event method
+2014/07/29 14:08:12 [notice] 2196#1392: start worker processes
+2014/07/29 14:08:12 [notice] 2196#1392: start worker process 4664
+2014/07/29 14:08:12 [notice] 4664#2176: nginx/1.7.3
+2014/07/29 14:08:12 [notice] 4664#2176: create thread 5024
+2014/07/29 14:08:12 [notice] 4664#2176: create thread 860
+2014/07/29 14:08:12 [notice] 4664#2176: create thread 3096
+2014/07/29 14:08:12 [notice] 2196#1392: worker process 5016 exited with code 0
+2014/07/29 14:09:19 [error] 4664#5024: *425 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/AleksandraM HTTP/1.1", upstream: "http://[::1]:8080/api/user/AleksandraM", host: "localhost", referrer: "http://localhost/"
+2014/07/29 14:12:03 [notice] 4348#2472: signal process started
+2014/07/29 14:12:03 [notice] 2196#1392: reconfiguring
+2014/07/29 14:12:03 [notice] 2196#1392: using the "select" event method
+2014/07/29 14:12:03 [notice] 2196#1392: start worker processes
+2014/07/29 14:12:03 [notice] 2196#1392: start worker process 5084
+2014/07/29 14:12:03 [notice] 5084#3900: nginx/1.7.3
+2014/07/29 14:12:03 [notice] 4664#2176: gracefully shutting down
+2014/07/29 14:12:03 [notice] 5084#3900: create thread 2632
+2014/07/29 14:12:03 [notice] 4664#860: exiting
+2014/07/29 14:12:03 [notice] 5084#3900: create thread 4488
+2014/07/29 14:12:03 [notice] 5084#3900: create thread 4952
+2014/07/29 14:12:04 [notice] 4664#5024: exiting
+2014/07/29 14:12:04 [notice] 4664#2176: exit
+2014/07/29 14:12:04 [notice] 2196#1392: worker process 4664 exited with code 0
+2014/07/29 14:13:09 [error] 5084#2632: *433 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/AleksandraM HTTP/1.1", upstream: "http://[::1]:8080/api/user/AleksandraM", host: "localhost", referrer: "http://localhost/"
+2014/07/29 14:15:57 [notice] 4116#2948: signal process started
+2014/07/29 14:15:57 [notice] 2196#1392: reconfiguring
+2014/07/29 14:15:57 [notice] 2196#1392: using the "select" event method
+2014/07/29 14:15:57 [notice] 2196#1392: start worker processes
+2014/07/29 14:15:57 [notice] 2196#1392: start worker process 5032
+2014/07/29 14:15:57 [notice] 5032#4048: nginx/1.7.3
+2014/07/29 14:15:57 [notice] 5032#4048: create thread 3028
+2014/07/29 14:15:57 [notice] 5084#3900: gracefully shutting down
+2014/07/29 14:15:57 [notice] 5032#4048: create thread 3272
+2014/07/29 14:15:57 [notice] 5084#4488: exiting
+2014/07/29 14:15:57 [notice] 5032#4048: create thread 1396
+2014/07/29 14:15:58 [notice] 5084#2632: exiting
+2014/07/29 14:15:58 [notice] 5084#3900: exit
+2014/07/29 14:15:58 [notice] 2196#1392: worker process 5084 exited with code 0
+2014/07/29 14:17:03 [error] 5032#3028: *438 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /api/user/AleksandraM HTTP/1.1", upstream: "http://[::1]:8080/api/user/AleksandraM", host: "localhost", referrer: "http://localhost/"
+2014/07/29 14:20:52 [error] 5032#3028: *444 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2014/07/29 14:21:15 [notice] 4468#1436: signal process started
+2014/07/29 14:21:15 [notice] 2196#1392: reconfiguring
+2014/07/29 14:21:15 [notice] 2196#1392: using the "select" event method
+2014/07/29 14:21:15 [notice] 2196#1392: start worker processes
+2014/07/29 14:21:15 [notice] 2196#1392: start worker process 3376
+2014/07/29 14:21:15 [notice] 3376#3428: nginx/1.7.3
+2014/07/29 14:21:15 [notice] 5032#4048: gracefully shutting down
+2014/07/29 14:21:15 [notice] 5032#3272: exiting
+2014/07/29 14:21:15 [notice] 3376#3428: create thread 2980
+2014/07/29 14:21:15 [notice] 3376#3428: create thread 4036
+2014/07/29 14:21:15 [notice] 3376#3428: create thread 3920
+2014/07/29 14:21:15 [notice] 5032#3028: exiting
+2014/07/29 14:21:15 [notice] 5032#4048: exit
+2014/07/29 14:21:15 [notice] 2196#1392: worker process 5032 exited with code 0
+2014/07/29 16:07:43 [notice] 4252#4524: signal process started
+2014/07/29 16:07:43 [notice] 2196#1392: reconfiguring
+2014/07/29 16:07:43 [notice] 2196#1392: using the "select" event method
+2014/07/29 16:07:43 [notice] 2196#1392: start worker processes
+2014/07/29 16:07:43 [notice] 2196#1392: start worker process 4640
+2014/07/29 16:07:43 [notice] 4640#1236: nginx/1.7.3
+2014/07/29 16:07:43 [notice] 3376#3428: gracefully shutting down
+2014/07/29 16:07:43 [notice] 4640#1236: create thread 4148
+2014/07/29 16:07:43 [notice] 3376#4036: exiting
+2014/07/29 16:07:43 [notice] 4640#1236: create thread 2112
+2014/07/29 16:07:43 [notice] 4640#1236: create thread 3340
+2014/07/29 16:07:43 [notice] 3376#2980: exiting
+2014/07/29 16:07:43 [notice] 3376#3428: exit
+2014/07/29 16:07:43 [notice] 2196#1392: worker process 3376 exited with code 0
+2014/07/29 16:08:48 [error] 4640#4148: *512 "C:\utils\nginx-1.7.3/var/www/ssl.example.org/index.php" is not found (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: ssl.example.org, request: "GET / HTTP/1.1", host: "localhost"
+2014/07/29 16:08:48 [error] 4640#4148: *512 CreateFile() "C:\utils\nginx-1.7.3/var/www/ssl.example.org/favicon.ico" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: ssl.example.org, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/29 16:09:37 [notice] 4184#2336: signal process started
+2014/07/29 16:09:37 [notice] 2196#1392: reconfiguring
+2014/07/29 16:09:37 [notice] 2196#1392: using the "select" event method
+2014/07/29 16:09:37 [notice] 2196#1392: start worker processes
+2014/07/29 16:09:37 [notice] 2196#1392: start worker process 964
+2014/07/29 16:09:37 [notice] 964#3492: nginx/1.7.3
+2014/07/29 16:09:37 [notice] 4640#1236: gracefully shutting down
+2014/07/29 16:09:37 [notice] 964#3492: create thread 1168
+2014/07/29 16:09:37 [notice] 4640#2112: exiting
+2014/07/29 16:09:37 [notice] 964#3492: create thread 892
+2014/07/29 16:09:37 [notice] 964#3492: create thread 1060
+2014/07/29 16:09:38 [notice] 4640#4148: exiting
+2014/07/29 16:09:38 [notice] 4640#1236: exit
+2014/07/29 16:09:38 [notice] 2196#1392: worker process 4640 exited with code 0
+2014/07/29 16:09:41 [error] 964#1168: *515 "C:\utils\nginx-1.7.3/var/www/ssl.example.org/index.php" is not found (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: ssl.example.org, request: "GET / HTTP/1.1", host: "localhost"
+2014/07/29 16:09:47 [notice] 2480#4460: signal process started
+2014/07/29 16:09:47 [notice] 2196#1392: reconfiguring
+2014/07/29 16:09:47 [notice] 2196#1392: using the "select" event method
+2014/07/29 16:09:47 [notice] 2196#1392: start worker processes
+2014/07/29 16:09:47 [notice] 2196#1392: start worker process 1136
+2014/07/29 16:09:47 [notice] 1136#3776: nginx/1.7.3
+2014/07/29 16:09:47 [notice] 964#3492: gracefully shutting down
+2014/07/29 16:09:47 [notice] 964#892: exiting
+2014/07/29 16:09:47 [notice] 1136#3776: create thread 2180
+2014/07/29 16:09:47 [notice] 1136#3776: create thread 3524
+2014/07/29 16:09:47 [notice] 1136#3776: create thread 3700
+2014/07/29 16:09:51 [notice] 964#1168: exiting
+2014/07/29 16:09:51 [notice] 964#3492: exit
+2014/07/29 16:09:51 [notice] 2196#1392: worker process 964 exited with code 0
+2014/07/29 16:10:03 [error] 1136#2180: *519 "C:\utils\nginx-1.7.3/var/www/ssl.example.org/index.php" is not found (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: ssl.example.org, request: "GET / HTTP/1.1", host: "localhost"
+2014/07/29 16:10:55 [notice] 5096#4864: signal process started
+2014/07/29 16:10:55 [notice] 2196#1392: reconfiguring
+2014/07/29 16:10:55 [notice] 2196#1392: using the "select" event method
+2014/07/29 16:10:55 [notice] 2196#1392: start worker processes
+2014/07/29 16:10:55 [notice] 2196#1392: start worker process 5088
+2014/07/29 16:10:55 [notice] 5088#5024: nginx/1.7.3
+2014/07/29 16:10:55 [notice] 1136#3776: gracefully shutting down
+2014/07/29 16:10:55 [notice] 5088#5024: create thread 4944
+2014/07/29 16:10:55 [notice] 1136#3524: exiting
+2014/07/29 16:10:55 [notice] 5088#5024: create thread 3828
+2014/07/29 16:10:55 [notice] 5088#5024: create thread 284
+2014/07/29 16:10:55 [notice] 1136#2180: exiting
+2014/07/29 16:10:55 [notice] 1136#3776: exit
+2014/07/29 16:10:55 [notice] 2196#1392: worker process 1136 exited with code 0
+2014/07/29 16:11:44 [error] 5088#4944: *533 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2014/07/29 16:16:52 [notice] 2708#2168: signal process started
+2014/07/29 16:16:53 [notice] 2196#1392: reconfiguring
+2014/07/29 16:16:53 [notice] 2196#1392: using the "select" event method
+2014/07/29 16:16:53 [notice] 2196#1392: start worker processes
+2014/07/29 16:16:53 [notice] 2196#1392: start worker process 5040
+2014/07/29 16:16:53 [notice] 5040#4544: nginx/1.7.3
+2014/07/29 16:16:53 [notice] 5088#5024: gracefully shutting down
+2014/07/29 16:16:53 [notice] 5040#4544: create thread 4524
+2014/07/29 16:16:53 [notice] 5088#3828: exiting
+2014/07/29 16:16:53 [notice] 5040#4544: create thread 4252
+2014/07/29 16:16:53 [notice] 5040#4544: create thread 3432
+2014/07/29 16:16:53 [notice] 5088#4944: exiting
+2014/07/29 16:16:53 [notice] 5088#5024: exit
+2014/07/29 16:16:53 [notice] 2196#1392: worker process 5088 exited with code 0
+2014/07/29 16:52:58 [error] 5040#4524: *569 CreateFile() "C:\utils\nginx-1.7.3/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
